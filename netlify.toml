@@ -1,7 +1,3 @@
 [build]
    publish = "build"
    functions = "functions"
-
-API_CLIENT_ID = "app6cZGdyMNiZJwQI"
-API_KEY = "keyV0EzmIEgGL2Auh"
-API_URL = "https://api.airtable.com"
