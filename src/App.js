@@ -1,6 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+// import useScript from './hooks/useScript';
+
+// const MyComponent = props => {
+//   useScript('https://use.typekit.net/foobar.js');
+
+//   // rest of your component
+// }
 
 function App() {
   return (

@@ -43,15 +43,4 @@ exports.handler = function (event, context, callback) {
       body: JSON.stringify(body)
     });
   }
-
-
-  // const data = [];
-
-  // /**
-  //   AIRTABLE REQUEST LOGIC GOES HERE, APPENDING TO DATA
-  //   REFERENCE YOUR BASE-SPECIFIC API FOR EXAMPLES OF
-  //   COMMON CRUD OPERATIONS
-  // */
-
-  // send(data);
 }
