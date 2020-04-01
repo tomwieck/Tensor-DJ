@@ -29,8 +29,8 @@ class App extends React.Component {
   }
 
   async componentDidMount() {
-    const resp = await fetch('http://localhost:8888/.netlify/functions/airtable/airtable.js/', {
-    // const resp = await fetch('https://tensor-dj.netlify.com/.netlify/functions/airtable/airtable.js/', {
+    // const resp = await fetch('http://localhost:8888/.netlify/functions/airtable/airtable.js/', {
+    const resp = await fetch('https://tensor-dj.netlify.com/.netlify/functions/airtable/airtable.js/', {
       method: 'GET',
       headers: {
         'content-type': 'application/json'
