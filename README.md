@@ -1,3 +1,10 @@
+Proof of concept, showing how [Teachable Machine](https://teachablemachine.withgoogle.com/) could be used to recognise record sleeves.
+
+![Tensor DJ](https://i.imgur.com/lFFcOQH.gif)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
