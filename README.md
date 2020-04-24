@@ -1,5 +1,7 @@
 Proof of concept, showing how [Teachable Machine](https://teachablemachine.withgoogle.com/) could be used to recognise record sleeves.
 
+Live site (will only work if you have the same records as me!)
+
 ![Tensor DJ](https://i.imgur.com/lFFcOQH.gif)
 
 
